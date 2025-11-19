@@ -96,7 +96,7 @@ Your app will get a public URL you can share with anyone.
 
 ## 📸 Application Screenshot
 
-![App Screenshot](sandbox:/mnt/data/screenshot.png)
+![App Screenshot](https://github.com/prathimabi30/Customer-Churn-Prediction-App/blob/main/screenshot.png?raw=true)
 
 
 🛠 Technologies Used
